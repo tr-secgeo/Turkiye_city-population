@@ -391,11 +391,11 @@ td video {
 .ol-attribution {
 	display: none;
 }
-/*.bottom-attribution {
+.bottom-attribution {
 	float: right;
 	position: relative;
 	display: flex;
-	}*/
+	}
 .bottom-attribution button {
 	display: none;
 	}
