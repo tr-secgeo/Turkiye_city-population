@@ -1,4 +1,4 @@
-Açık Verilerden 2B Web Haritası Oluşturma
+## Açık Verilerden 2B Web Haritası Oluşturma
 Türkiye şehirlerine ait TÜİK den alınan 2024 yılı güncellenen nüfus verilerinin vektör veriler ile ilişkilendirilerek oluşturulan bir web-cbs tematik harita oluşturma projesidir.
 
 NOT: Bilgisayar ortamın da düzenlediğimiz proje klasörü içerisin de aşağıdaki git komutlarını açtığımız bash terminalin de çalıştırırız;
