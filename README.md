@@ -2,9 +2,10 @@
 Türkiye şehirlerine ait TÜİK den alınan 2024 yılı güncellenen nüfus verilerinin vektör veriler ile ilişkilendirilerek oluşturulan bir web-cbs tematik harita oluşturma projesidir.
 
  Web-CBS Türkiye Nüfus Tematik haritası üzerinden;
-    - dinamik nüfus verilerini sorgulayabilme,
-    - mesafe ve alan ölçümlerini yapabilme,
-    - anlık konum bilgisini harita da gösterebilme,
+ 
+     - dinamik nüfus verilerini sorgulayabilme,
+     - mesafe ve alan ölçümlerini yapabilme,
+     - anlık konum bilgisini harita da gösterebilme,
     
 yeteneklerine sahip bir web-cbs projesidir.
 
