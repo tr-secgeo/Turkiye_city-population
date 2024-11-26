@@ -26,5 +26,5 @@ NOT: Bilgisayar ortamın da düzenlediğimiz proje klasörü içerisin de aşağ
  - git config user.name
  - git config user.email
  - git remote -v
- - git remote add origin "https://github.com/tr-secgeo/virtual_reality-osiad.git" 
+ - git remote add origin "https://github.com/tr-secgeo/Turkiye_city-population.git" 
  - git push -u origin main
