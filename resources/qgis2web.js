@@ -472,7 +472,7 @@ map.addControl(bottomAttribution);
 
 var attributionList = document.createElement('li');
 attributionList.innerHTML = `
-	<a href="https://www.linkedin.com/in/seçgeo-apps-71a48118b/">ⓈeçGEO</a>`;
+	<a href="https://www.linkedin.com/company/seçgeo/">ⓈeçGEO</a>`;
 bottomAttribution.element.appendChild(attributionList);
 
 
